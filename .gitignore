@@ -6,8 +6,10 @@
 **/__pycache__/
 
 # App - ignorar archivos dentro de .streamlit, excepto .gitkeep
-App/.streamlit/*
+.streamlit/secrets.toml 
+.streamlit/Planta.xlsx 
 !App/.streamlit/.gitkeep
+
 
 # Calidad - ignorar archivos en las subcarpetas, excepto .gitkeep
 Calidad/Colombia/*
