@@ -31,9 +31,6 @@ Calidad/TLCs/*
 !Calidad/TLCs/.gitkeep
 
 # Cargue/Insumos y subcarpetas
-Cargue/Insumos/*
-!Cargue/Insumos/.gitkeep
-
 Cargue/Insumos/EXPORTACIONES/*
 !Cargue/Insumos/EXPORTACIONES/.gitkeep
 
