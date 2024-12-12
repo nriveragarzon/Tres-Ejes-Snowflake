@@ -1,0 +1,54 @@
+# Ignorar entornos virtuales
+**/.venv/
+.venv/
+
+# Ignorar __pycache__
+**/__pycache__/
+
+# App - ignorar archivos dentro de .streamlit, excepto .gitkeep
+App/.streamlit/*
+!App/.streamlit/.gitkeep
+
+# Calidad - ignorar archivos en las subcarpetas, excepto .gitkeep
+Calidad/Colombia/*
+!Calidad/Colombia/.gitkeep
+
+Calidad/Continentes/*
+!Calidad/Continentes/.gitkeep
+
+Calidad/Departamentos/*
+!Calidad/Departamentos/.gitkeep
+
+Calidad/Hubs/*
+!Calidad/Hubs/.gitkeep
+
+Calidad/Paises/*
+!Calidad/Paises/.gitkeep
+
+Calidad/TLCs/*
+!Calidad/TLCs/.gitkeep
+
+# CARGUE/Insumos y subcarpetas
+CARGUE/Insumos/*
+!CARGUE/Insumos/.gitkeep
+
+CARGUE/Insumos/EXPORTACIONES/*
+!CARGUE/Insumos/EXPORTACIONES/.gitkeep
+
+CARGUE/Insumos/GEOGRAFIA/*
+!CARGUE/Insumos/GEOGRAFIA/.gitkeep
+
+CARGUE/Insumos/INVERSION/*
+!CARGUE/Insumos/INVERSION/.gitkeep
+
+CARGUE/Insumos/INVERSION/Bulk_UNCTAD/*
+!CARGUE/Insumos/INVERSION/Bulk_UNCTAD/.gitkeep
+
+CARGUE/Insumos/PARAMETROS/*
+!CARGUE/Insumos/PARAMETROS/.gitkeep
+
+CARGUE/Insumos/TURISMO/*
+!CARGUE/Insumos/TURISMO/.gitkeep
+
+CARGUE/Insumos/TURISMO/Conectividad/*
+!CARGUE/Insumos/TURISMO/Conectividad/.gitkeep

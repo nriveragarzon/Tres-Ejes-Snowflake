@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Página-1" id="ODlqBVYrO_w2SbGvLBQn">
+    <mxGraphModel dx="1774" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300" pageHeight="350" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0kGyUB529WSKIkSh07Yr-35" value="" style="rounded=0;html=1;textOpacity=0;labelBackgroundColor=none;fontColor=none;noLabel=1;labelBorderColor=default;whiteSpace=wrap;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="-463" y="370" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-55" value="" style="rounded=0;html=1;textOpacity=0;labelBackgroundColor=none;fontColor=none;noLabel=1;labelBorderColor=default;whiteSpace=wrap;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="-43" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-33" value="" style="rounded=0;html=1;textOpacity=0;labelBackgroundColor=none;fontColor=none;noLabel=1;labelBorderColor=default;whiteSpace=wrap;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="40" width="230" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-31" value="" style="rounded=0;html=1;textOpacity=0;labelBackgroundColor=none;fontColor=none;noLabel=1;labelBorderColor=default;whiteSpace=wrap;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
+          <mxGeometry x="-513" y="160" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-1" target="0kGyUB529WSKIkSh07Yr-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-1" value="Base de Exportaciones Colombianas&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fuente: DANE-DIAN. Cálculos: Coordinación Analítica - GIC.&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-805" y="50" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-16" target="0kGyUB529WSKIkSh07Yr-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-16" value="Países&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Migraci%C3%B3n%20Colombia%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3BfillStyle%3Dsolid%3BgradientColor%3D%237ea6e0%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%2280%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-313" y="390" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-17" target="0kGyUB529WSKIkSh07Yr-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-17" value="Departamentos&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Migraci%C3%B3n%20Colombia%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3BfillStyle%3Dsolid%3BgradientColor%3D%237ea6e0%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%2280%22%20width%3D%2280%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-453" y="390" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-18" target="0kGyUB529WSKIkSh07Yr-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-18" value="Agrupación&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Controles de calidad&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-503" y="175" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-26" target="0kGyUB529WSKIkSh07Yr-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-26" value="Cargue de datos a Snowflake" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-383" y="175" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-36" value="Bases de datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-760" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-37" value="Correlativas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-378" y="570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-38" value="Agrupación - Calidad - Cargue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-488" y="130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-49" target="0kGyUB529WSKIkSh07Yr-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-49" target="0kGyUB529WSKIkSh07Yr-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-49" value="Verificación masiva de calidad de datos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-233" y="190" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-51" value="Aplicativo en Streamlit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-33" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0kGyUB529WSKIkSh07Yr-52" target="0kGyUB529WSKIkSh07Yr-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-52" value="Despliegue en CodeSandbox" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-33" y="237.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-56" value="Aplicativo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-18" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0kGyUB529WSKIkSh07Yr-61" value="Seguimiento permanente de métricas, actualización de información y calidad de datos" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-72" y="412" width="178" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_9INcmIWVn28sVex_NPT-1" target="0kGyUB529WSKIkSh07Yr-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-1" value="IED e ICE por países y actividades&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fuente: Banrep. Cálculos: Coordinación Analítica - GIC.&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-805" y="185" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_9INcmIWVn28sVex_NPT-2" target="0kGyUB529WSKIkSh07Yr-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-2" value="Llegada de extranjeros no residentes&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fuente: Migración Colombia. Cálculos: ProColombia - TEC 2.0.&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-805" y="320" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_9INcmIWVn28sVex_NPT-3" target="0kGyUB529WSKIkSh07Yr-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-3" value="Conectividad Aérea&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fuente: OAG. Cálculos: Coordinación Turismo.&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-805" y="460" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_9INcmIWVn28sVex_NPT-13" target="0kGyUB529WSKIkSh07Yr-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-13" value="Parámetros" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;gradientColor=#7ea6e0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-383" y="480" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.434;entryY=-0.063;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" target="0kGyUB529WSKIkSh07Yr-38" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-153" y="190" as="sourcePoint" />
+            <mxPoint x="-473" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-153" y="80" />
+              <mxPoint x="-406" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9INcmIWVn28sVex_NPT-25" value="Corrección de errores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-343" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

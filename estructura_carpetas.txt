@@ -1,0 +1,25 @@
++---.venv
++---App
+¦   +---.streamlit
+¦   +---.venv
+¦   +---Insumos
+¦   +---__pycache
++---Calidad
+¦   +---Colombia 
+¦   +---Continentes
+¦   +---Departamentos
+¦   +---Hubs
+¦   +---Paises
+¦   +---TLCs
+¦   +---__pycache__
++---CARGUE
+¦   +---Insumos
+¦   ¦   +---EXPORTACIONES
+¦   ¦   +---GEOGRAFIA
+¦   ¦   +---INVERSION
+¦   ¦   ¦   +---Bulk_UNCTAD
+¦   ¦   +---PARAMETROS
+¦   ¦   +---TURISMO
+¦   ¦       +---Conectividad
+¦   +---__pycache__
++---Documentación
