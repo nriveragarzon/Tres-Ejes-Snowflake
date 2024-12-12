@@ -3324,11 +3324,11 @@ def format_columns_turismo(df):
     columns_to_capitalize = ['País de residencia', 'Departamento de hospedaje', 'Ciudad de hospedaje', 'Motivo de viaje', 'Género']
     first_col = df.columns[0]
 
-    # Capitalizar los nombres en la primera columna si corresponde (Se elimina porque no es necesario, los nombres ya viene correctos.)
-    #if first_col in columns_to_capitalize:
-    #    df[first_col] = df[first_col].apply(
-    #        lambda x: ' '.join(word.capitalize() for word in x.split()) if isinstance(x, str) else x
-    #    )
+    # Capitalizar los nombres en la primera columna si corresponde
+    if first_col in columns_to_capitalize:
+        df[first_col] = df[first_col].apply(
+            lambda x: ' '.join(word.capitalize() for word in x.split()) if isinstance(x, str) else x
+        )
 
     # Formatear columnas de valores numéricos (años, meses, diferencias)
     for col in df.columns:
@@ -3369,11 +3369,11 @@ def format_columns_turismo_excel(df):
     columns_to_capitalize = ['País de residencia', 'Departamento de hospedaje', 'Ciudad de hospedaje', 'Motivo de viaje', 'Género']
     first_col = df.columns[0]
 
-    # Capitalizar los nombres en la primera columna si corresponde (Se elimina porque no es necesario, los nombres ya viene correctos.)
-    #if first_col in columns_to_capitalize:
-    #    df[first_col] = df[first_col].apply(
-    #        lambda x: ' '.join(word.capitalize() for word in x.split()) if isinstance(x, str) else x
-    #    )
+    # Capitalizar los nombres en la primera columna si corresponde
+    if first_col in columns_to_capitalize:
+        df[first_col] = df[first_col].apply(
+            lambda x: ' '.join(word.capitalize() for word in x.split()) if isinstance(x, str) else x
+    )
 
     # Formatear columnas de valores numéricos (años, meses)
     for col in df.columns:
