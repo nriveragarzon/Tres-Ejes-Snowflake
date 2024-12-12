@@ -23,7 +23,6 @@ debugpy==1.8.1
 decorator==5.1.1
 distributed==2024.8.2
 docx==0.2.4
-docx2pdf==0.1.8
 et_xmlfile==2.0.0
 executing==2.0.1
 filelock==3.14.0
@@ -81,7 +80,6 @@ pyparsing==3.1.2
 python-dateutil==2.9.0.post0
 python-docx==1.1.2
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.1
 pyzmq==26.0.3
 referencing==0.35.1
