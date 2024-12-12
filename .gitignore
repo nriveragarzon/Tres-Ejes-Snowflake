@@ -30,27 +30,27 @@ Calidad/Paises/*
 Calidad/TLCs/*
 !Calidad/TLCs/.gitkeep
 
-# CARGUE/Insumos y subcarpetas
-CARGUE/Insumos/*
-!CARGUE/Insumos/.gitkeep
+# Cargue/Insumos y subcarpetas
+Cargue/Insumos/*
+!Cargue/Insumos/.gitkeep
 
-CARGUE/Insumos/EXPORTACIONES/*
-!CARGUE/Insumos/EXPORTACIONES/.gitkeep
+Cargue/Insumos/EXPORTACIONES/*
+!Cargue/Insumos/EXPORTACIONES/.gitkeep
 
-CARGUE/Insumos/GEOGRAFIA/*
-!CARGUE/Insumos/GEOGRAFIA/.gitkeep
+Cargue/Insumos/GEOGRAFIA/*
+!Cargue/Insumos/GEOGRAFIA/.gitkeep
 
-CARGUE/Insumos/INVERSION/*
-!CARGUE/Insumos/INVERSION/.gitkeep
+Cargue/Insumos/INVERSION/*
+!Cargue/Insumos/INVERSION/.gitkeep
 
-CARGUE/Insumos/INVERSION/Bulk_UNCTAD/*
-!CARGUE/Insumos/INVERSION/Bulk_UNCTAD/.gitkeep
+Cargue/Insumos/INVERSION/Bulk_UNCTAD/*
+!Cargue/Insumos/INVERSION/Bulk_UNCTAD/.gitkeep
 
-CARGUE/Insumos/PARAMETROS/*
-!CARGUE/Insumos/PARAMETROS/.gitkeep
+Cargue/Insumos/PARAMETROS/*
+!Cargue/Insumos/PARAMETROS/.gitkeep
 
-CARGUE/Insumos/TURISMO/*
-!CARGUE/Insumos/TURISMO/.gitkeep
+Cargue/Insumos/TURISMO/*
+!Cargue/Insumos/TURISMO/.gitkeep
 
-CARGUE/Insumos/TURISMO/Conectividad/*
-!CARGUE/Insumos/TURISMO/Conectividad/.gitkeep
+Cargue/Insumos/TURISMO/Conectividad/*
+!Cargue/Insumos/TURISMO/Conectividad/.gitkeep
