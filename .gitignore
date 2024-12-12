@@ -10,6 +10,10 @@ App/.streamlit/secrets.toml
 App/.streamlit/Planta.xlsx 
 !App/.streamlit/.gitkeep
 
+# App - ignorar el archivo .gitignore
+App/.gitignore
+
+
 
 # Calidad - ignorar archivos en las subcarpetas, excepto .gitkeep
 Calidad/Colombia/*
